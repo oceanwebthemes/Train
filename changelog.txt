@@ -1,9 +1,133 @@
 Changelog
 
-Tested up to: 4.6
+Tested up to: 4.7.2
 
-Version 1.0.0
-i)   	Intial version Release
+Version 3.0.2
+i)      Changelog.txt order corrected.
+ii)     Documentation updated with new demo preview link.
+
+Version 3.0.1
+i)		CSS Fixation
+ii)		Design by link
+iii)	Other Fixation
+
+
+Version 3.0.0
+i)		Added enable/disable option for menu footer.
+ii)		Added enable/disable option for contact information of Header section.
+iii)	Added option for the button text of featured section.
+
+
+Version 2.0.7
+i)		Added Enable/Disable section for title of slider.
+ii)		Added Enable/Disable section for content of slider.
+iii)	Added Enable/Disable section for read more button of slider.
+iv)		Added option for developde by text in footer section.
+
+
+Version 2.0.6
+i)		Added Enable/Disable section for slider.
+ii)		Added Enable/Disable section for Welcome Section.
+iii)	Added Enable/Disable section for Feature Section.
+iv)		Fix the html tag issues in welcome section.
+
+
+Version 2.0.5
+i)		Fix the css issues for the footer section.
+ii)		Added Enable and Disable option for Scroll to Top Button
+iii)	Added Enable and Disable option for Search Form in header section.
+iv)		Change the demo link.
+
+
+Version 2.0.4
+i)		Fix the css issues for the footer section.
+ii)		fix the responsive issues.
+iii)	Added Number of Post Selection in Featured Section.
+
+
+
+Version 2.0.3
+i)		Link to pro is added
+
+
+Version 2.0.2
+i)		Comments Language change in other files 
+ii)		linebreak is removed in CSS and Js
+
+
+Version 2.0.1
+i)		Comments Language change
+ii)		Comments-template.php is removed 
+iii)	Removed sanitize_sidebar_widgets() and preview_sidebars_widgets() from custom-train.php
+iv)		Comments are added custom.css file 
+v)		Combined responsive.css to custom.css and responsive-rtl.css to custom-rtl.css
+vi)		train.pot is updated 
+
+
+Version 1.0.10
+i)		Fixed remaining issues on language.
+ii)		Changed links to #.
+iii)	Changed author uri.
+iv)		Fixed other mentioned issues.
+
+
+Version 1.0.9
+i)		Escaping fixed
+ii)		translation ready fixed
+iii)	Copyright to oceanwebthemes
+iv)		prefix removed in train_theme_setup
+v)		suffix removed 
+
+
+Version 1.0.8
+i)		Removed images folder
+ii)		Updated train.pot file
+iii)	Corrected escape function on some files.
+iv)		Fixed css issue on logo section
+
+Version 1.0.7
+i)		Removed the title fallbacks in custom-train.php
+ii)		Removed fancybox js and css file
+iii)	Escaped some output .
+iv)		Added prefix for add_image_sizes
+v)		Deleted content-search.php 
+vi) 	Correction  as per suggestions on 1.0.6
+
+
+
+Version 1.0.6
+i)		Removed Unused Files
+ii) 	Screenshot Changed 
+iii)	JS and CSS Properly Formated 
+iv)		WordPress Core Pagination is Used 
+v) 		Other Minor Issue is Fixed
+
+Version 1.0.5
+i) 		Corrections as per suggestions
+
+
+
+Version 1.0.4
+i) 		CSS issue fixed for the widgets
+ii) 	Parent Menu for the Child item is Fixed 		
+
+
+Version 1.0.3
+i)   	Solve The Minnor Error and Warning
+ii)	 	Remove Default Image
+iii)    Remove Expcerpt Function and Defult Excerpt of WordPress
+iv)		Removed Unused Files
+v)		Added theme instruction in readme.txt
+vi)		Removed unused Js Files
+vii) 	Combined additional theme function in  extra.php and removed other files
+viii)	Removed Unused functions and Codes
+ix)		Changed Page Tempalate and and Tempaltes Parts
+x)    	Escaped Output from get_theme_mod is fixed 
+xi)		CSS fixation & Improvement
+xii)	Default Template Will act as for blog and front-page so removed other page templates
+xiii)	Screenshot changed
+xiv)	Front-page tempalte and default blog tempalte is mergerd
+
 
 Version 1.0.2
 i)   	Added Number of Post Selection in Featured Section
@@ -20,114 +144,8 @@ xii) 	Language file updated as per other files changes
 xiii)   Default Image is added in Slider Section.
 xiv)    Fixed the css of page not found sidebar.
 
-Version 1.0.3
-i)   	Solve The Minnor Error and Warning
-ii)	 	Remove Default Image
-iii)    Remove Expcerpt Function and Defult Excerpt of WordPress
-iv)		Removed Unused Files
-v)		Added theme instruction in readme.txt
-vi)		Removed unused Js Files
-vii) 	Combined additional theme function in  extra.php and removed other files
-viii)	Removed Unused functions and Codes
-ix)		Changed Page Tempalate and and Tempaltes Parts
-x)    	Escaped Output from get_theme_mod is fixed 
-xi)		CSS fixation & Improvement
-xii)	Default Template Will act as for blog and front-page so removed other page templates
-xiii)	Screenshot changed
-xiv)	Front-page tempalte and default blog tempalte is mergerd	 
 
-Version 1.0.4
-i) 		CSS issue fixed for the widgets
-ii) 	Parent Menu for the Child item is Fixed 
-
-Version 1.0.5
-i) 		Corrections as per suggestions
-
-Version 1.0.6
-
-i)		Removed Unused Files
-ii) 	Screenshot Changed 
-iii)	JS and CSS Properly Formated 
-iv)		WordPress Core Pagination is Used 
-v) 		Other Minor Issue is Fixed
+Version 1.0.0
+i)   	Intial version Release
 
 
-Version 1.0.7
-
-i)		Removed the title fallbacks in custom-train.php
-ii)		Removed fancybox js and css file
-iii)	Escaped some output .
-iv)		Added prefix for add_image_sizes
-v)		Deleted content-search.php 
-vi) 	Correction  as per suggestions on 1.0.6
-
-
-Version 1.0.8
-
-i)		Removed images folder
-ii)		Updated train.pot file
-iii)	Corrected escape function on some files.
-iv)		Fixed css issue on logo section
-
-Version 1.0.9
-
-i)		Escaping fixed
-ii)		translation ready fixed
-iii)	Copyright to oceanwebthemes
-iv)		prefix removed in train_theme_setup
-v)		suffix removed 
-
-Version 1.0.10
-
-i)		Fixed remaining issues on language.
-ii)		Changed links to #.
-iii)	Changed author uri.
-iv)		Fixed other mentioned issues.
-
-Version 2.0.1
-i)		Comments Language change
-ii)		Comments-template.php is removed 
-iii)	Removed sanitize_sidebar_widgets() and preview_sidebars_widgets() from custom-train.php
-iv)		Comments are added custom.css file 
-v)		Combined responsive.css to custom.css and responsive-rtl.css to custom-rtl.css
-vi)		train.pot is updated 
-
-Version 2.0.2
-i)		Comments Language change in other files 
-ii)		linebreak is removed in CSS and Js
-
-Version 2.0.3
-i)		Link to pro is added
-
-Version 2.0.4
-i)		Fix the css issues for the footer section.
-ii)		fix the responsive issues.
-iii)	Added Number of Post Selection in Featured Section.
-
-Version 2.0.5
-i)		Fix the css issues for the footer section.
-ii)		Added Enable and Disable option for Scroll to Top Button
-iii)	Added Enable and Disable option for Search Form in header section.
-iv)		Change the demo link.
-		
-Version 2.0.6
-i)		Added Enable/Disable section for slider.
-ii)		Added Enable/Disable section for Welcome Section.
-iii)	Added Enable/Disable section for Feature Section.
-iv)		Fix the html tag issues in welcome section.
-
-Version 2.0.7
-i)		Added Enable/Disable section for title of slider.
-ii)		Added Enable/Disable section for content of slider.
-iii)	Added Enable/Disable section for read more button of slider.
-iv)		Added option for developde by text in footer section.
-
-Version 3.0.0
-i)		Added enable/disable option for menu footer.
-ii)		Added enable/disable option for contact information of Header section.
-iii)	Added option for the button text of featured section.
-
-Version 3.0.1
-i)		CSS Fixation
-ii)		Design by link
-iii)	Other Fixation

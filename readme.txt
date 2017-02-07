@@ -1,14 +1,14 @@
 == Description ==
 
-Train Theme is a simple, clean, beautifully designed responsive WordPress business theme. It is minimal but mostly used features will help you setup your website easily and quickly. Full width layout, featured slider,services/features layout, blog layout, social media integration, full width page layout and woocommerce ready. Fully responsive, cross-browser compatible, SEO friendly, Train Theme is multi-purpose and is suitable for any type of business. Highest level of compatibility with mostly used WP plugins. Great customer support via online chat, email, support forum. Official support forum: http://oceanwebthemes.com/support/ View full demo here: http://oceanwebthemes.com/view/?demo=train
+Train Theme is a simple, clean, beautifully designed responsive WordPress business theme. It is minimal but mostly used features will help you setup your website easily and quickly. Full width layout, featured slider,services/features layout, blog layout, social media integration, full width page layout and woocommerce ready. Fully responsive, cross-browser compatible, SEO friendly, Train Theme is multi-purpose and is suitable for any type of business. Highest level of compatibility with mostly used WP plugins. Great customer support via online chat, email, support forum. Official support forum: http://oceanwebthemes.com/support/ View full demo here: http://oceanwebthemes.com/preview?theme=train
 
 Contributors: oceanwebthemes
 Tags: one-column,two-columns,three-columns,sticky-post,left-sidebar,right-sidebar,translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments,blog,sticky-post,footer-widgets,custom-colors,custom-header,featured-images,full-width-template,rtl-language-support
 
 
 Requires at least: 4.5.1
-Tested up to: 4.7
-Stable tag: 3.0.1
+Tested up to: 4.7.2
+Stable tag: 3.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
